@@ -1,0 +1,1 @@
+Agile Nomads’ project objective was to create an online marketplace for consumers to shop or sell second-hand apparel sustainably by creating a shopping website prototype. To achieve this goal, our team focused on project management best practices to ensure project success, specifically an agile approach rooted in Design Thinking methodology.
